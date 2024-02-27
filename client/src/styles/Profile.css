@@ -1,0 +1,49 @@
+.clsProfile{
+    max-width: 500px;
+}
+
+.clsHead {
+    background-color: #0077ff;
+    padding: 10px;
+    color: #fff;
+  }
+  
+  .clsUsername {
+    margin: 0;
+    color: #fff;
+  }
+  
+  .clsBody {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .clsFullName,
+  .clsFatherName,
+  .clsDob,
+  .clsAddress {
+    margin: 5px 0;
+  }
+  
+  .clsPoints {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .clsPointsUp,
+  .clsPointsDown {
+    padding: 5px;
+    color: #fff;
+    margin: 0;
+    width: 45%;
+  }
+
+  .clsPointsUp{
+    background-color: green;
+  }
+
+  .clsPointsDown{
+    background-color: red;
+  }
+  
